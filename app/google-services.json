@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949746391427",
+    "project_id": "savingapp-34818",
+    "storage_bucket": "savingapp-34818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949746391427:android:90cb826bf3bc19419bbeb6",
+        "android_client_info": {
+          "package_name": "com.example.personalcash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949746391427-m9lapkpil6kf1am5e7nqrdje7gh0tof0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNUU0cnP1Yecy6YW7xS-dSER8y-brztE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949746391427-m9lapkpil6kf1am5e7nqrdje7gh0tof0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
